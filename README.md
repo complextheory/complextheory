@@ -13,23 +13,11 @@ If you enjoy my projects please reach out to me at <a href="mailto:complextheory
 ## Check Out my Music at [Complex Theory Spotify](https://open.spotify.com/artist/7x6S56y0kSrcJ34TuGuztk?si=wu4BAoItT2mcWyAf9rBKlA)  
 
 <p align="center">
- <img src = "https://github-readme-streak-stats.herokuapp.com/?user=complextheory&theme=onedark&hide_border=true"
+ <img src = "https://github-readme-streak-stats.herokuapp.com/?user=complextheory&theme=onedark&hide_border=truecard_width=450"
  </p>
  <p align="center">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=complextheory&theme=onedark&hide_border=true"
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=complextheory&theme=onedark&hide_border=true&card_width=450"
  </p>
 <p align="center">
- <img src = "https://github-readme-stats.vercel.app/api?username=complextheory&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github">
+ <img src = "https://github-readme-stats.vercel.app/api?username=complextheory&theme=onedark&hide_border=true&card_width=450include_all_commits=true&count_private=true&rank_icon=github">
  </p>
-
-
-
-<!--(https://github.com/complextheory/github-readme-stats)
-[![Complex Theory Streak Stats:](https://github-readme-streak-stats.herokuapp.com/?user=complextheory&theme=onedark&hide_border=true)<br/>
--->
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=complextheory48&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
- 
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=complextheory&theme=react&show_icons=true">
-</p>
--->

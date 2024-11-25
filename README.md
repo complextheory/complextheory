@@ -12,14 +12,22 @@ If you enjoy my projects please reach out to me at <a href="mailto:complextheory
 
 ## Check Out my Music at [Complex Theory Spotify](https://open.spotify.com/artist/7x6S56y0kSrcJ34TuGuztk?si=wu4BAoItT2mcWyAf9rBKlA)  
 
-[![Complex Theory GitHub stats:](https://github-readme-stats.vercel.app/api?username=complextheory&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)](https://github-readme-streak-stats.herokuapp.com/?user=complextheory&theme=onedark&hide_border=true)(https://github-readme-stats.vercel.app/api/top-langs/?username=complextheory&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+ <img src = "https://github-readme-streak-stats.herokuapp.com/?user=complextheory&theme=onedark&hide_border=true"
+ </p>
+ <p align="center">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=complextheory&theme=onedark&hide_border=true"
+ </p>
+<p align="center">
+ <img src = "https://github-readme-stats.vercel.app/api?username=complextheory&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github">
+ </p>
 
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=complextheory48&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=complextheory48&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+<!--(https://github.com/complextheory/github-readme-stats)
+[![Complex Theory Streak Stats:](https://github-readme-streak-stats.herokuapp.com/?user=complextheory&theme=onedark&hide_border=true)<br/>
 -->
-
-
- <!--[![Complex Theory's GitHub stats](https://github-readme-stats.vercel.app/api?complextheory=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=complextheory48&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=complextheory&theme=react&show_icons=true">
